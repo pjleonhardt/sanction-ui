@@ -1,0 +1,3 @@
+class SanctionController < SanctionAuthController
+
+end
